@@ -1,4 +1,4 @@
-<h1 align="center">Lost Ferry Interactive Technical Round Project</h1>
+<h1 align="center">Musique</h1>
 
 > This project is about a music search website. It allows the user to enter an artist and find albums released by them using the itunes API.
 
